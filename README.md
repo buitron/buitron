@@ -2,7 +2,7 @@
 ___
 
 <div align="center">
-  :alien: <a href="https://www.alexbuitron.com" target="_blank" rel="noopener noreferrer">My Webspace!</a> :alien: &nbsp;&nbsp; :taco: <a href="mailto:alex@buitron.com">My Email.</a> :taco:
+  :alien: :taco:
 </div>
 
 ___
@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=buitron&theme=dark) 
 -->
 
-![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=buitron&theme=dark) ![Jokes Card](https://readme-jokes.vercel.app/api?theme=chartreuse-dark) 
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=chartreuse-dark)
