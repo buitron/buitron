@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ### 🧀😂 You know you like the cheese!
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=chartreuse-dark)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=buitron&theme=midnight-purple)
+![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=buitron&theme=dark)
