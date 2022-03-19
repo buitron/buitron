@@ -1,4 +1,13 @@
-### Work in progress, LEAVE ME ALONE! Hi 👋
+[![Banner](https://alex-webcdn.s3.us-west-1.amazonaws.com/media/uploads/img/banners/A1X+Github+Banner.gif)](https://www.alexbuitron.com)
+
+#
+
+
+<div align="center">
+  :alien: <a href="https://www.alexbuitron.com">My Webspace!</a> :alien: &nbsp;&nbsp; :taco: <a href="mailto:alex@buitron.com">My Email.</a> :taco:
+</div>
+
+#
 
 <!--
 **buitron/buitron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +24,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🧀😂 You know you like the cheese!
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=chartreuse-dark)
-
-![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=buitron&theme=dark)
+![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=buitron&theme=dark) ![Jokes Card](https://readme-jokes.vercel.app/api?theme=chartreuse-dark) 
