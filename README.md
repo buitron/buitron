@@ -2,7 +2,7 @@
 ___
 
 <div align="center">
-  :alien: <a href="https://www.alexbuitron.com">My Webspace!</a> :alien: &nbsp;&nbsp; :taco: <a href="mailto:alex@buitron.com">My Email.</a> :taco:
+  :alien: <a href="https://www.alexbuitron.com" target="_blank" rel="noopener noreferrer">My Webspace!</a> :alien: &nbsp;&nbsp; :taco: <a href="mailto:alex@buitron.com">My Email.</a> :taco:
 </div>
 
 ___
