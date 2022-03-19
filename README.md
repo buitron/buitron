@@ -1,4 +1,4 @@
-![banner](https://www.canva.com/design/DAE7aTrbdZI/D3qjfsLRezfbVPnGH44RlQ/view?mode=prototype)
+![banner](https://www.canva.com/design/DAE7aTrbdZI/view)
 
 ### Work in progress, LEAVE ME ALONE! Hi 👋
 
