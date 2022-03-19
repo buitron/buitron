@@ -1,5 +1,3 @@
-![banner](https://www.canva.com/design/DAE7aTrbdZI/view)
-
 ### Work in progress, LEAVE ME ALONE! Hi 👋
 
 <!--
