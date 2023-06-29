@@ -20,5 +20,7 @@ Here are some ideas to get you started:
 
 ![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=buitron&theme=dark) 
 -->
+### Sorry for the dad jokes. Not sorry actually, SUFFER!!!!
 <br>
 <div align="center"><img src="https://readme-jokes.vercel.app/api?theme=chartreuse-dark"></div>
+<br>
